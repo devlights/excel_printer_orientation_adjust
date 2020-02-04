@@ -1,0 +1,2 @@
+# excel_printer_orientation_adjust
+Excelを操作して各シートの印刷方向を調整するスクリプトです。
