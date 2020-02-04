@@ -9,6 +9,8 @@
 #   - http://excel.style-mods.net/tips_vba/tips_vba_7_09.htm
 #   - https://stackoverflow.com/a/37635373
 #   - https://www.sejuku.net/blog/23647
+#   - https://docs.microsoft.com/ja-jp/office/vba/api/excel.xlpageorientation
+#   - http://excel.style-mods.net/tips_vba/tips_vba_7_03.htm
 #################################################################
 import argparse
 
