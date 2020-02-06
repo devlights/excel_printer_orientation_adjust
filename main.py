@@ -67,7 +67,7 @@ def go(target_dir: str, pattern: str, orientation: str):
                         ws.PageSetup.Orientation = xl_orientation
                     else:
                         if pattern in ws.Name:
-                            ws.PageSetup.CenterFooter = xl_orientation
+                            ws.PageSetup.Orientation = xl_orientation
                 if sheets_count >= 0:
                     ws = wb.Worksheets(1)
                     ws.Activate()
